@@ -1,0 +1,5 @@
+singleton Colors 1.0 Colors.qml
+singleton Typography 1.0 Typography.qml
+singleton Spacing 1.0 Spacing.qml
+singleton Animations 1.0 Animations.qml
+singleton ScaleManager 1.0 ScaleManager.qml
